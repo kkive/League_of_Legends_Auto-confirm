@@ -1,0 +1,9 @@
+requirements.txt filter=lfs diff=lfs merge=lfs -text
+必要驱动 filter=lfs diff=lfs merge=lfs -text
+运行点我管理员运行.bat filter=lfs diff=lfs merge=lfs -text
+lol filter=lfs diff=lfs merge=lfs -text
+main.py filter=lfs diff=lfs merge=lfs -text
+mouse filter=lfs diff=lfs merge=lfs -text
+__pycache__ filter=lfs diff=lfs merge=lfs -text
+best_new.pt filter=lfs diff=lfs merge=lfs -text
+check_drive.py filter=lfs diff=lfs merge=lfs -text
