@@ -1,0 +1,2 @@
+# League_of_Legends_Auto-confirm
+基于yolov8模型完成英雄联盟自动接受进入游戏
