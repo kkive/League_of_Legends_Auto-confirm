@@ -1,7 +1,8 @@
 # League_of_Legends_Auto-confirm
 基于yolov8模型完成英雄联盟自动接受进入游戏
-github上传大文件复杂，我分享到了阿里云，压缩包解压直接用
-[阿里云](https://pages.github.com/).
+github上传大文件复杂，我分享到了云盘
+https://cowtransfer.com/s/2ec96a1866c349  传输口令 lx817d 
+
 # 使用方法：
 ## 1.解压到桌面 *最好是桌面，其他地方也可以，为了方便运行把.bat 放在桌面就可以*
 ![image](https://github.com/kkive/League_of_Legends_Auto-confirm/assets/51246778/238f7602-d05d-47e9-9b83-dd3394397ad5)
